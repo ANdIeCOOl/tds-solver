@@ -780,7 +780,7 @@ def solver_25(email: str):
 
 
 def solver_26(tag: str): #### Need to check later ####
-    return f'''https://hub.docker.com/repository/docker/trebhuvansb/py-hello/tags'''
+    return f'''https://hub.docker.com/repository/docker/andiecool/tds/general'''
     
 
 def solver_27(temp_dir: str, file_path: str, file_name: str):
