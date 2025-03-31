@@ -775,7 +775,7 @@ def solver_25(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/trebhuvanSB/actions_TDSWeek2'''
+    return f'''https://github.com/ANdIeCOOl/TDS'''
     
 
 
