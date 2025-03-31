@@ -698,7 +698,7 @@ def solver_21(email_id: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f"https://trebhuvansb.github.io/"
+    return f"https://andiecool.github.io/"
 
 
 def solver_22(email_id: str):
