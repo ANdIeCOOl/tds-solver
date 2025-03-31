@@ -726,7 +726,7 @@ def solver_23(temp_dir: str, file_path: str, file_name: str, lightness_threshold
 
 def solver_24(temp_dir: str, file_path: str, file_name: str):
     ### Have to implement this later
-    return f'''https://vercel-tds-week2.vercel.app/api'''
+    return f'''https://tds-a9b2ckh5l-andrew-david-ratnam-sathiadass-projects.vercel.app'''
 
 
 
