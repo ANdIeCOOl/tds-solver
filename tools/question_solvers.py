@@ -1376,7 +1376,7 @@ def solver_44(email: str):
 #     # Push the changes
 #     subprocess.run(["git", "push"], check=True)
 #     os.chdir(PWD)
-    return f'''https://github.com/trebhuvanSB/tds_scheduled_actions'''
+    return f'''https://github.com/ANdIeCOOl/tds_scheduled_actions'''
 
 def solver_45(temp_dir: str, file_path: str, file_name: str, subject_whose_marks_to_be_calculated: str, marks_in_criterion_subject: int, criterion_subject: str, group_start_number: int, group_end_number: int):
     import tabula
